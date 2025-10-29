@@ -1,0 +1,7 @@
+site,raw_text,parsed_count,status,timestamp
+Walmart,0,0,OK (regex-fallback),2025-09-26T13:59:27.656222
+Amazon,"1-48 of over 40,000 results for",40000,OK (xpath),2025-09-26T13:59:57.635569
+Target,0,0,OK (regex-fallback),2025-09-26T14:00:06.645326
+Kroger,,,Not Found,2025-09-26T14:00:37.486241
+Publix,13,13,OK (regex-fallback),2025-09-26T14:01:04.673674
+Albertsons,35,35,OK (regex-fallback),2025-09-26T14:01:33.101206
